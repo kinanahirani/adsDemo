@@ -1,3 +1,4 @@
+// @import GoogleMobileAds;
 #import "AppDelegate.h"
 
 #import <React/RCTBundleURLProvider.h>
@@ -10,6 +11,7 @@
   // You can add your custom initial props in the dictionary below.
   // They will be passed down to the ViewController used by React Native.
   self.initialProps = @{};
+  // [GADMobileAds configureWithApplicationID:@"ca-app-pub-9777227605462893~1399845641"];
 
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
