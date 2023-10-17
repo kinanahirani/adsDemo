@@ -6,4 +6,4 @@
    "android_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx",
    "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx"
    }
-4. 
+4. (or) follow this guide https://medium.com/@msgold/how-to-setup-google-ads-in-react-native-3886353f7e7c
